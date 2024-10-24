@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\bin\Debug\08=Methods.exe.config
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\bin\Debug\08=Methods.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\bin\Debug\08=Methods.pdb
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\obj\Debug\08=Methods.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\obj\Debug\08=Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\obj\Debug\08=Methods.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\08=Methods\obj\Debug\08=Methods.pdb

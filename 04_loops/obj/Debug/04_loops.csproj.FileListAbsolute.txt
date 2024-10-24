@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\bin\Debug\04_loops.exe.config
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\bin\Debug\04_loops.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\bin\Debug\04_loops.pdb
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\obj\Debug\04_loops.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\obj\Debug\04_loops.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\obj\Debug\04_loops.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\04_loops\obj\Debug\04_loops.pdb

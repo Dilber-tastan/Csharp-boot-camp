@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\bin\Debug\09_databaseproject.exe.config
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\bin\Debug\09_databaseproject.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\bin\Debug\09_databaseproject.pdb
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\obj\Debug\09_databaseproject.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\obj\Debug\09_databaseproject.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\obj\Debug\09_databaseproject.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\09_databaseproject\obj\Debug\09_databaseproject.pdb

@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\06_Arrays\obj\Debug\06_Arrays.pdb

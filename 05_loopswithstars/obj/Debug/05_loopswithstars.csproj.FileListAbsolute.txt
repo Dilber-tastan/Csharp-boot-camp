@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\bin\Debug\05_loopswithstars.exe.config
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\bin\Debug\05_loopswithstars.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\bin\Debug\05_loopswithstars.pdb
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\obj\Debug\05_loopswithstars.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\obj\Debug\05_loopswithstars.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\obj\Debug\05_loopswithstars.exe
+C:\Users\Dilber Taştan\source\repos\Csharpeğitimkampı\05_loopswithstars\obj\Debug\05_loopswithstars.pdb
