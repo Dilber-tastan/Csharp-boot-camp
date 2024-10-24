@@ -14,7 +14,7 @@ I printed out how to make a star on the console in different ways with loops.
 I learned the array structure, applied the storage logic and learned how to process it.
 ✅Project 7: Foreach Cycle and Exam System 
 I learned the foreach loop structure and created an exam simulation using the structures we have learned so far.
-✅Project 6: Methods
+✅Project 8: Methods
 I learned methods with and without parameters and created methods that return results in the console.
 
 
